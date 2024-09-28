@@ -1,7 +1,10 @@
 # some reminder...
-## Colored text #1
 
-You can use the diff language tag to generate some colored text:
+## emojis cheatsheet [(link)](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
+
+## colored text #1
+
+use diff language tag (```diff) to generate colored text:
 
 ```diff
 - text in red
@@ -10,9 +13,8 @@ You can use the diff language tag to generate some colored text:
 # text in gray
 @@ text in purple (and bold)@@
 ```
-However, it adds it as a new line starting with either - + ! # or starts and ends with @@
+like above, adds it as a new line starting with either - + ! # or starts and ends with @@
 
-enter image description here
 
 ## Placeholders
 
