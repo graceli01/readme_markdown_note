@@ -4,6 +4,7 @@
 - [emojis](#emojis-cheatsheet-link)
 - [make text in other color](#colored-text-1)
   - [placeholders](#placeholders)
+- [formatting](#formatting)
 
   
 ## emojis cheatsheet [(link)](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
@@ -36,3 +37,6 @@ Produces:
 #1589F0 #1589F0
 
 Reference : [How to add color to Github's README.md file](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
+
+## Formatting
+- [link1](https://github.com/graceli01/hoangsonww/edit/main/README.md)
