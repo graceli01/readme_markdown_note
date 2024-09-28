@@ -1,5 +1,11 @@
-# some reminder...
+# some reminders...
 
+## Sections
+- [emojis](#emojis-cheatsheet-link)
+- [make text in other color](#colored-text-1)
+  - [placeholders](#placeholders)
+
+  
 ## emojis cheatsheet [(link)](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
 
 ## colored text #1
@@ -16,7 +22,7 @@ use diff language tag (```diff) to generate colored text:
 like above, adds it as a new line starting with either - + ! # or starts and ends with @@
 
 
-## Placeholders
+### Placeholders
 
 It's worth mentioning that you can add some colour in a README using a placeholder image service. For example if you wanted to provide a list of colours for reference:
 
